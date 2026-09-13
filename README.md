@@ -28,7 +28,7 @@
 
 | Category | Tools & Frameworks |
 | :--- | :--- |
-| **Languages** | `Python`, `SQL`, `C++`, `Bash`, `LaTeX` |
+| **Languages** | `Python`, `SQL`, `Bash`, `LaTeX` |
 | **Machine Learning** | `Scikit-learn`, `LightGBM`, `XGBoost`, `NumPy`, `Pandas`, `SciPy`, `HDBSCAN`, `K-Means`, `EDA` |
 | **Deep Learning & GenAI** | `PyTorch`, `Hugging Face (RoBERTa, BART)`, `LangGraph`, `LangChain`, `FAISS`, `SentenceTransformers`, `BERTopic` |
 | **MLOps & Backend** | `Docker Compose`, `DVC`, `MLflow`, `FastAPI`, `Streamlit`, `SQLAlchemy`, `PostgreSQL`, `SQLite`, `AWS S3`, `Pytest` |
