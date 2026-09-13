@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/mrsaurabhtanwar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://mrsaurabhtanwar.github.io/MyWeb/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" /></a>
   <a href="https://leetcode.com/u/mrsaurabhtanwar/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="https://unstop.com/u/mrsaurabhtanwar"><img src="https://img.shields.io/badge/Unstop-1C4980?style=for-the-badge&logo=hackerearth&logoColor=white" alt="Unstop" /></a>
+  <a href="https://www.hackerrank.com/profile/mrsaurabhtanwar"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
   <a href="mailto:saurabhtanwar7320@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -54,12 +54,9 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrsaurabhtanwar&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Saurabh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsaurabhtanwar&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mrsaurabhtanwar&theme=github_dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mrsaurabhtanwar&theme=github_dark&hide_border=true" alt="GitHub Streak" /><br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrsaurabhtanwar&theme=github_dark" alt="GitHub Profile Summary" /><br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrsaurabhtanwar&theme=github_dark" alt="Languages Breakdown" />
 </div>
 
 ---
@@ -69,5 +66,5 @@
 - 💼 **LinkedIn**: [linkedin.com/in/mrsaurabhtanwar](https://www.linkedin.com/in/mrsaurabhtanwar/)
 - 🌐 **Portfolio**: [mrsaurabhtanwar.github.io/MyWeb](https://mrsaurabhtanwar.github.io/MyWeb/)
 - 💻 **LeetCode**: [leetcode.com/u/mrsaurabhtanwar](https://leetcode.com/u/mrsaurabhtanwar/)
-- 🎯 **Unstop**: [unstop.com/u/mrsaurabhtanwar](https://unstop.com/u/mrsaurabhtanwar)
+- 🏆 **HackerRank**: [hackerrank.com/profile/mrsaurabhtanwar](https://www.hackerrank.com/profile/mrsaurabhtanwar)
 - ✉️ **Email**: [saurabhtanwar7320@gmail.com](mailto:saurabhtanwar7320@gmail.com) / [24091973@scale.iitrpr.ac.in](mailto:24091973@scale.iitrpr.ac.in)
